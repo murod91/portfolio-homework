@@ -11,3 +11,7 @@ p {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
 }
+
+.fa-solid fa-1 {
+  color: black;
+}
