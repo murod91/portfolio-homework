@@ -1,5 +1,6 @@
 :root {
-  --brading-color: #6c63ff;
+  --branding-color: #6c63ff;
+  --secondary-color: #f9f7fe;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
 }
@@ -41,7 +42,7 @@ p {
 }
 
 .btn-branding {
-  background: var(--brading-color);
+  background: var(--branding-color);
   border-radius: 4px;
   color: white;
   font-size: 18px;
