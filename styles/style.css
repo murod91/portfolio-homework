@@ -191,11 +191,7 @@ footer .social-link a:hover {
   }
 
   h4 {
-    font-size: 18px;
-  }
-
-  .btn {
-    font-size: 18px;
+    font-size: 22px;
   }
   .hero {
     padding: 80px 20px;
@@ -211,9 +207,5 @@ footer .social-link a:hover {
 
   nav a {
     font-size: 12px;
-  }
-
-  footer .contact-box {
-    padding: 30px;
   }
 }
