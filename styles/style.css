@@ -146,7 +146,7 @@ footer .email-link {
   text-align: center;
 }
 
-footer .email-link:hoover {
+footer .email-link:hover {
   color: var(--branding-color);
 }
 
